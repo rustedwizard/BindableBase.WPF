@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("BindableBase.WPF")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("A simple bindable base abstract class used for databinding/mvvm in wpf application")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("BindableBase.WPF")]
-[assembly: AssemblyCopyright("Copyright ©  2018")]
+[assembly: AssemblyCopyright("This package is completely open source")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
